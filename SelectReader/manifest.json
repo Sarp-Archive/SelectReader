@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "SelectReader",
+  "version": "1.0",
+  "permissions":["tabs","activeTab"],
+
+  "description": "Reader selected text aloud.",
+
+  "icons": {
+    "256": "img/icon_256.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "32": "img/icon_32.png"
+    },
+    "default_title": "SelectReader"
+  },
+
+  "background": {
+      "scripts": ["src/main.js"]
+  }
+}
+
