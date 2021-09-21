@@ -1,4 +1,4 @@
 # SelectReader
 A Chrome extension that reads out the selected text.
 
-Click to download extension: 
+Download page: https://github.com/Segilmez06/SelectReader/releases/latest
