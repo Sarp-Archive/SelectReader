@@ -7,7 +7,7 @@ A Chrome extension that reads out the selected text.
 Install from Edge Addons Store: [Select Reader - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/selectreader/jkckfgkbdenicbejhidflkkbbmgngfog)
 
 ### Other Chromium-based browsers:
-1) Go to downloads page: [Releases](https://github.com/Segilmez06/SelectReader/releases/latest)
+1) Go to downloads page: [Latest Release - Segilmez06/SelectReader](https://github.com/Segilmez06/SelectReader/releases/latest)
 2) Choose SelectReader.crx file from the assets part and download.
 3) Go to your extensions page, enable Developer Options and drag-drop the SelectReader.crx file to the screen.
 
