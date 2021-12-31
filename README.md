@@ -1,5 +1,5 @@
 # SelectReader
-A Chrome extension that reads out the selected text.
+A browser extension that reads out the selected text.
 
 ## Installation:
 
